@@ -1,6 +1,6 @@
 -- Session handling routines - written for acf
 -- Copyright (C) 2007 N. Angelacos - GPL2 License
--- Copyright (C) 2023 T. Bonnin - Compat Lua 5.4 - GPL2 License
+-- Copyright (C) 2023 T. Bonnin - Compat Lua 5.3 - GPL2 License
 
 --[[ Note that in this library, we use empty (0 byte) files
 -- everwhere we can, as they only take up dir entries, not inodes
